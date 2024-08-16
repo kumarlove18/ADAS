@@ -1,0 +1,1 @@
+[{"image": "frame_191.jpg", "verified": false, "annotations": [{"label": "speed_breaker", "coordinates": {"x": 956.4193548387098, "y": 784.0, "width": 575.0, "height": 94.0}}, {"label": "speed_limit_20", "coordinates": {"x": 488.41935483870975, "y": 579.5, "width": 47.0, "height": 37.0}}]}]
